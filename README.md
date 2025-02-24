@@ -17,12 +17,12 @@ Avant de pouvoir exécuter ce projet, vous devez avoir un environnement COBOL co
 
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/ton_nom_utilisateur/simulateur-bancaire-cobol.git
+    git clone https://github.com/BitMasterLab/simulateur-banque-COBOL.git
     ```
    
 2. Accédez au répertoire du projet :
     ```bash
-    cd simulateur-bancaire-cobol
+    cd simulateur-banque-COBOL
     ```
 
 3. Compilez et exécutez le programme avec votre compilateur COBOL. Par exemple, avec GnuCOBOL :
@@ -42,4 +42,3 @@ Les contributions à ce projet sont les bienvenues ! Si vous souhaitez améliore
 ## Licence
 
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
-
